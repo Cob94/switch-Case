@@ -1,0 +1,6 @@
+Uncaught java.lang.Error exception in thread "main" in a method decision.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	scanner cannot be resolved to a type
+	The method Switch(int) is undefined for the type decision
+
+	at decision.main(decision.java:6) [file:/home/alumno/Omar/Decision_Switch_CASE/bin/decision.class]

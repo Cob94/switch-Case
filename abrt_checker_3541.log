@@ -1,0 +1,6 @@
+Uncaught java.lang.Error exception in thread "main" in a method decision.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	The method Switch(int) is undefined for the type decision
+	Syntax error, insert ";" to complete Statement
+
+	at decision.main(decision.java:9) [file:/home/alumno/Omar/Decision_Switch_CASE/bin/decision.class]
